@@ -1,0 +1,2 @@
+no-retry=com.liyan.rpc.fault.retry.NoRetryStrategy
+fixed-interval=com.liyan.rpc.fault.retry.FixedIntervalRetryStrategy

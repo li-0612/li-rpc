@@ -1,0 +1,4 @@
+failFast=com.liyan.rpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.liyan.rpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.liyan.rpc.fault.tolerant.FailSafeTolerantStrategy
+failBack=com.liyan.rpc.fault.tolerant.FailBackTolerantStrategy

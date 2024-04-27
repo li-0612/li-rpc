@@ -1,0 +1,3 @@
+roundRobin=com.liyan.rpc.loadbalancer.RoundRobinLoadBalancer
+random=com.liyan.rpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.liyan.rpc.loadbalancer.ConsistentHashLoadBalancer
